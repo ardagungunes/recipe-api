@@ -1,0 +1,3 @@
+"""
+Django admin customizations
+"""
