@@ -21,8 +21,8 @@ class UserAdmin(BaseUserAdmin):
                     'is_staff',
                     'is_superuser',
                 ),
-            }
-        ),
+                }
+),
 
         (_('Important dates'), {'fields': ('last_login',)}),
     )
